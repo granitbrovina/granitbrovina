@@ -1,6 +1,6 @@
 ## Hi, I'm Granit! 👋
 
-I'm a data and technical support engineer based in Chicago. For the past five years I've worked at Visionect / Joan, where I support enterprise customers and work on the Data Engineering team, building Python and SQL pipelines, internal tools, and AI support workflows. I like turning messy technical data into tools people actually use.
+I'm a data and technical support engineer based in Chicago. I have five years of experience in the tech industry (so far - Nov. 2026), where I technical support and work on the Data Engineering team, building Python and SQL pipelines, internal tools, and AI support workflows. I like turning messy technical data into tools people actually use.
 
 ### Socials
 
